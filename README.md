@@ -17,7 +17,7 @@ The Generative AI SQL Query App is a unique tool that leverages a Google LLM (La
 
 Clone the repository:
 
-Create an Virtual Environment : conda create -p health python==3.11 -y
+Create an Virtual Environment : conda create -p text2sql python==3.11 -y
 
 Activate your virtual Environment
 
