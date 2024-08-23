@@ -1,7 +1,7 @@
 # Generative AI Text to SQL Query App
 
 # Overview
-The Generative AI SQL Query App is a unique tool that leverages a Google LLM (Language Learning Model) to convert natural English language into SQL queries. This app allows users to interact with databases using simple English commands, which are then translated into SQL queries to fetch the required data. It provides an easy-to-use interface through Streamlit, a popular Python web application framework, making database interaction accessible to non-technical users.
+The Generative AI SQL Query App is a unique tool that leverages a Google LLM (Large Language Model) to convert natural English language into SQL queries. This app allows users to interact with databases using simple English commands, which are then translated into SQL queries to fetch the required data. It provides an easy-to-use interface through Streamlit, a popular Python web application framework, making database interaction accessible to non-technical users.
 
 # Features
 Natural Language to SQL: Automatically converts natural language questions into SQL queries.
