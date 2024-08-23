@@ -40,8 +40,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 # Contact
 If you have any questions or feedback, please feel free to reach out:
 
-Email: brijesh29.it11@gmail.com
-LinkedIn: https://www.linkedin.com/in/brijesh-kapadiya-536406282/
+- Email: brijesh29.it11@gmail.com
+- LinkedIn: https://www.linkedin.com/in/brijesh-kapadiya-536406282/
 
 # Acknowledgments
 - Google for their powerful LLM model.
