@@ -29,7 +29,7 @@ Run Database: python sql.py
 
 Run App: streamlit run app.py
 
-Access the application: (It will redirect automatically.) Open your browser and navigate to http://localhost:8000
+Access the application: (It will redirect automatically.)
 
 # Contributing
 Contributions are welcome! If you have suggestions or improvements, please fork the repository and create a pull request.
