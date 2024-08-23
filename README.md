@@ -48,8 +48,8 @@ If you have any questions or feedback, please feel free to reach out:
 - The Streamlit community for providing an excellent framework for building web apps.
 
 # Author
-Brijesh Kapadiya
-Data Scientist and AI Enthusiast
+- Brijesh Kapadiya
+- Data Scientist and AI Enthusiast
 
 
 
