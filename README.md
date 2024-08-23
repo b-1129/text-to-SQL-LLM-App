@@ -10,8 +10,8 @@ The Generative AI SQL Query App is a unique tool that leverages a Google LLM (La
 - Streamlit Interface: User-friendly web interface for seamless interaction with the application.
 
 # Project Structure
-sql.py: This script uses sqlite3 to create a database and manage records. It sets up the database and provides functions to create tables and manipulate data.
-app.py: The main application script that runs the Streamlit app. It handles user input, processes natural language using the Google LLM model, converts it into SQL queries, and displays results.
+- sql.py: This script uses sqlite3 to create a database and manage records. It sets up the database and provides functions to create tables and manipulate data.
+- app.py: The main application script that runs the Streamlit app. It handles user input, processes natural language using the Google LLM model, converts it into SQL queries, and displays results.
 
 # Installation
 
